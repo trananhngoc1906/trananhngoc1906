@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm starting my coding journey on 10/07/2022
+- I'm starting my coding journey on 2022/07/10
 
 <!--
 **trananhngoc1906/trananhngoc1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
